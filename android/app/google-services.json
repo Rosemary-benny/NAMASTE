@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455297624050",
+    "project_id": "namaste-app-345a9",
+    "storage_bucket": "namaste-app-345a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455297624050:android:c1f60d4075d033d0f32d6b",
+        "android_client_info": {
+          "package_name": "com.example.namaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455297624050-s0ao9qa7pr5fnkchmt5puro53u1sc3pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLkrZfNA8g71iL4H3vaqkjdtCxwhJpMuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455297624050-s0ao9qa7pr5fnkchmt5puro53u1sc3pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

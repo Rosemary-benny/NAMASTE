@@ -40,7 +40,7 @@ class AboutUs extends StatelessWidget {
                 padding: EdgeInsets.all(15),
                 child: Expanded(
                     child: Text(
-                        "We use a sustainable farming system to grow, hatch and raise black soldier fly larvae for pets like reptiles, chickens and small animals.We market our larvae products under the brand name Namaste.\n\n"
+                        " for pets like reptiles, chickens and small animals.We market our larvae products under the brand name Namaste.\n\n"
                         "If you're someone who love to live healthy while reducing your impact on the environment, or you just want to find a good way of making your organic waste useful, you'll absolutely love this app.",
                         style: TextStyle(color: Colors.black, fontSize: 16),
                         textAlign: TextAlign.left)),

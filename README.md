@@ -1,4 +1,4 @@
-# namaste - The nowaste App
+# NAMASTE - The NoWaste App
 
 A collaborative project for a better environment, lesser climatic catastrophes and the holistic development of the society
 
